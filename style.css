@@ -37,7 +37,7 @@ body{
 }
 .container .box img{
     position: relative;
-    max-width: 110px;
+    max-width: 100px;
     margin-bottom: 10px;
 }
 .container .box:nth-child(1){
