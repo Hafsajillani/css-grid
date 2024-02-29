@@ -16,8 +16,8 @@ body{
     position: relative;
     max-width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-template-rows: minmax(100px, auto);
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    grid-template-rows: minmax(250px, auto);
     margin: 40px;
     grid-auto-flow: dense;
     grid-gap: 10px;
@@ -37,7 +37,7 @@ body{
 }
 .container .box img{
     position: relative;
-    max-width: 100px;
+    max-width: 110px;
     margin-bottom: 10px;
 }
 .container .box:nth-child(1){
