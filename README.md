@@ -1,10 +1,5 @@
-Hey there, I'm Hafsa Jillani, and I'm diving into an exciting 30-day code challenge! 🚀 Starting with the fundamentals of HTML and CSS, I'll be venturing into the realms of JavaScript, React, Tailwind CSS, and TypeScript. Join me as I document every detail of this coding adventure, from the basics to the advanced projects! Let's code, learn, and grow together! 💻✨
-
-
 
 ---
-
-
 
 ### Responsive Masonry Layouts Using CSS Grid
 
@@ -38,3 +33,4 @@ Hey there, I'm Hafsa Jillani, and I'm diving into an exciting 30-day code challe
 
 7. .container .box{ grid-column: unset !important; grid-row: unset !important; }: This CSS rule inside a media query resets the `grid-column` and `grid-row` properties for all box elements inside a container. It ensures that on smaller screens, the boxes do not maintain their specified column and row spans, and instead flow according to the new grid layout defined in the media query. The `!important` keyword is used to give this rule higher specificity and ensure it overrides any conflicting styles.
 
+---
